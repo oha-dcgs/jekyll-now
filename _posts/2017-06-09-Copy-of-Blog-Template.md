@@ -6,21 +6,6 @@ permalink: /copy-of-blog-template/
 source-id: 11L2OsYFj3DfpgDsX_tJ_ImTf9DasmwltQcY9cS-2OzQ
 published: true
 ---
-table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-}
-
-td, th {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
-}
-
-tr:nth-child(even) {
-    background-color: #dddddd;
-}
 <table>
   <tr>
     <td>Title</td>
