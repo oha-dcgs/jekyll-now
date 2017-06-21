@@ -3,12 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+Hey its your boy. 
 
 ### More Information
 
-Hey its your boy. Doing this for IT for my school and posting every week. Naisu.
+Doing this for IT for my school and posting every week. Naisu.
 
 ### Contact me
 
