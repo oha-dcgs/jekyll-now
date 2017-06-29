@@ -1,5 +1,5 @@
 ---
-title: Letter 1 - Beginning Again.
+title: Letter 1 - Beginning Again
 layout: post
 author: oscar.halton
 permalink: /copy-of-blog-template/
