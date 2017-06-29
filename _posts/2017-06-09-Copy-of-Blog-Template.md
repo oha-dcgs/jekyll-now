@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <th>Title</th>
-    <td>A Clean Slate</td>
+    <td> A Clean Slate</td>
     <th>Date</th>
-    <td>08/06/17</td>
+    <td> 08/06/17</td>
   </tr>
 </table>
 
@@ -19,15 +19,21 @@ published: true
 <table>
   <tr>
     <th>Starting point:</th>
-    <td>Not much.</td>
+  </tr>
+  <tr>
+    <td> Not much.</td>
   </tr>
   <tr>
     <th>Target for this lesson?</th>
-    <td>To restart my blog from scratch, and to continue coding.</td>
+  </tr>
+  <tr>
+    <td> To restart my blog from scratch, and to continue coding.</td>
   </tr>
   <tr>
     <th>Did I reach my target? </th>
-    <td>I have restarted my blog, and am now working on reshaping it into what I want.</td>
+  </tr>
+  <tr>
+    <td> I have restarted my blog, and am now working on reshaping it into what I want.</td>
   </tr>
 </table>
 
