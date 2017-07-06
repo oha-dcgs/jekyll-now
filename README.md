@@ -1,120 +1,88 @@
-> March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
+1. Terms of Website use
+This page (together with the documents referred to on it) tells you the terms of use (the “Website Terms of Use”) on which you may make use of our Website www.thisislanguage.com (our “Website”), whether as a guest or a registered user. Please read these terms of use carefully before you start to use our Website. By using our Website, you indicate that you accept these terms of use and that you agree to abide by them. If you do not agree to these terms of use, please refrain from using our Website.
 
-# Jekyll Now
+2. Our commitment
+We are committed to protecting the safety and security of our users and are sensitive to concerns about the safety of personal information provided to us. We will never sell information you provide to us to any third party. Please read our Privacy Policy carefully in order to understand how any personal information collected by us is used.
 
-**Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
+3. Information about us
+Our Website is owned and operated by This Is Language Ltd, a company registered in England and Wales whose registered office is at 41 Cornmarket Street, Oxford, England, OX1 3HA United Kingdom with company number 07792177.
 
-**Jekyll Now** makes it easier to create your Jekyll blog, by eliminating a lot of the up front setup.
+4. Using our Website
+Access to our Website is permitted on a temporary basis, and we reserve the right to withdraw or amend the service we provide on our Website without notice (see below). We will not be liable if for any reason our Website is unavailable at any time or for any period.
 
-- You don't need to touch the command line
-- You don't need to install/configure ruby, rvm/rbenv, ruby gems :relaxed:
-- You don't need to install runtime dependencies like markdown processors, Pygments, etc
-- If you're on Windows, this will make setting up Jekyll a lot easier
-- It's easy to try out, you can just delete your forked repository if you don't like it
+From time to time, we may restrict access to some parts of our Website, or the entire Website, to users who have registered with us.
 
-In a few minutes you'll be set up with a minimal, responsive blog like the one below giving you more time to spend on writing epic blog posts!
+If you choose, or you are provided with, a user identification code, password or any other piece of information as part of our security procedures, you must treat such information as confidential, and you must not disclose it to any third party. We have the right to disable any user identification code or password, whether chosen by you or allocated by us, at any time, if in our opinion you have failed to comply with any of the provisions of these terms of use.
 
-![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
+When using our Website, you must comply with the provisions of our Privacy Policy.
 
-## Quick Start
+You are responsible for making all arrangements necessary for you to have access to our Website. You are also responsible for ensuring that all persons who access our Website through your internet connection are aware of these terms of use, and that they comply with them.
 
-### Step 1) Fork Jekyll Now to your User Repository
+5. Intellectual property rights
+We are the owner or the licensee of all intellectual property rights in our Website, and in the material published on it, unless otherwise stated on our Website. Those works are protected by copyright laws and treaties around the world. All such rights are reserved.
 
-Fork this repo, then rename the repository to yourgithubusername.github.io.
+You may print off one copy, and may download extracts of, any page(s) from our Website for your personal reference and you may draw the attention of others within your organisation to material posted on our Website. You may not otherwise download any video or audio sequences from the Website.
 
-Your Jekyll blog will often be viewable immediately at <http://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+You must not modify the paper or digital copies of any materials you have printed off or downloaded in any way, and you must not use any illustrations, photographs, video or audio sequences or any graphics separately from any accompanying text.
 
-![Step 1](/images/step1.gif "Step 1")
+In the case of downloadable worksheets, you are free to edit them for your own internal use, but all material that you create from the downloadable worksheets should be marked as having been derived from material that is our copyright. Our status (and that of any identified contributors) as the authors of material on our Website must always be acknowledged.
 
-### Step 2) Customize and view your site
+You must not use any part of the materials on our Website for commercial purposes without obtaining a licence to do so from us or our licensors.
 
-Enter your site name, description, avatar and many other options by editing the _config.yml file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here too.
+If you print off, copy or download any part of our Website in breach of these terms of use, your right to use our Website will cease immediately and you must, at our option, return or destroy any copies of the materials you have made.
 
-Making a change to _config.yml (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <http://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon
+6. Reliance on information posted
+Commentary and other materials posted on our Website are not intended to amount to advice on which reliance should be placed. We therefore disclaim all liability and responsibility arising from any reliance placed on such materials by any visitor to our Website, or by anyone who may be informed of any of its contents.
 
-> There are 3 different ways that you can make changes to your blog's files:
+7. Our Website changes regularly
+We aim to update our Website regularly, and may change the content at any time. If the need arises, we may suspend access to our Website, or close it indefinitely. Any of the material on our Website may be out of date at any given time, and we are under no obligation to update such material.
 
-> 1. Edit files within your new username.github.io repository in the browser at GitHub.com (shown below).
-> 2. Use a third party GitHub content editor, like [Prose by Development Seed](http://prose.io). It's optimized for use with Jekyll making markdown editing, writing drafts, and uploading images really easy.
-> 3. Clone down your repository and make updates locally, then push them to your GitHub repository.
+8. Our liability
+Whilst we use reasonable endeavours to operate our Website 24 hours a day 7 days a week, subject to routine maintenance, web site updates and circumstances outside of our control, we shall not be liable if for any reason our Website is unavailable at any time or for any period. Access to our Website may be suspended temporarily or permanently and without notice.
 
-![_config.yml](/images/config.png "_config.yml")
+Whilst we endeavour to ensure that the materials on our Website are a valuable educational aid bringing real benefits to students, no warranty, express or implied, is given as to the effectiveness of such material as an educational or revision aid, and we do not accept any liability for any errors, omissions or unsatisfactory examination results.
 
-### Step 3) Publish your first blog post
+The material displayed on our Website is provided without any guarantees, conditions or warranties as to its accuracy. To the extent permitted by law, we and third parties connected to us hereby expressly exclude all conditions, warranties and other terms which might otherwise be implied by statute or common law. This does not affect our liability for death or personal injury arising from our negligence, nor our liability for fraudulent misrepresentation nor any other liability which cannot be excluded or limited under applicable law.
 
-Edit `/_posts/2014-3-3-Hello-World.md` to publish your first blog post. This [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might come in handy.
+9. Information about you and your visits to our Website
+We are registered to process personal data under the Data Protection Act 1998 and will comply with all obligations contained in that legislation. Our Privacy Policy set out on our Website explains how personal information relating to users of our Website will be treated and may be processed by us, as they make use of this Website. Changes to the Privacy Policy from time to time will be posted on this Website.
 
-![First Post](/images/first-post.png "First Post")
+By using our Website, you consent to such processing and you warrant that all data provided by you is accurate.
 
-> You can add additional posts in the browser on GitHub.com too! Just hit the + icon in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
+10. Transactions concluded through our Website
+Contracts for the supply of our services are governed by our Subscriber Terms of Service.
 
-## Local Development
+11. Uploading material or resources to our Website
+Any material or resources you upload to our Website will be considered non-confidential and non-proprietary, and we have the right to use, copy, distribute and disclose to third parties any such material for any purpose save where that would conflict with our Privacy Policy.
 
-1. Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
-2. Clone down your fork `git clone https://github.com/yourusername/yourusername.github.io.git`
-3. Serve the site and watch for markup/sass changes `jekyll serve`
-4. View your website at http://127.0.0.1:4000/
-5. Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
+We will not be responsible, or liable to any third party, for the content or accuracy of any materials posted by you or any other user of our Website.
 
-## Moar!
+12. Viruses, hacking and other offences
+You must not misuse our Website by knowingly introducing viruses, trojans, worms, logic bombs or other material which is malicious or technologically harmful. You must not attempt to gain unauthorised access to our Website, the server on which our Website is stored or any server, computer or database connected to our Website. You must not attack our Website via a denial-of-service attack or a distributed denial-of service attack.
 
-I've created a more detailed walkthrough, [**Build A Blog With Jekyll And GitHub Pages**](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) over at the Smashing Magazine website. Check it out if you'd like a more detailed walkthrough and some background on Jekyll. :metal:
+By breaching this provision, you would commit a criminal offence under the Computer Misuse Act 1990. We will report any such breach to the relevant law enforcement authorities and we will co-operate with those authorities by disclosing your identity to them. In the event of such a breach, your right to use our Website will cease immediately.
 
-It covers:
+We will not be liable for any loss or damage caused by a distributed denial-of-service attack, viruses or other technologically harmful material that may infect your computer equipment, computer programs, data or other proprietary material due to your use of our Website or to your downloading of any material posted on it, or on any website linked to it.
 
-- A more detailed walkthrough of setting up your Jekyll blog
-- Common issues that you might encounter while using Jekyll
-- Importing from Wordpress, using your own domain name, and blogging in your favorite editor
-- Theming in Jekyll, with Liquid templating examples
-- A quick look at Jekyll 2.0’s new features, including Sass/Coffeescript support and Collections
+13. Linking to our Website
+You may link to our home page, provided you do so in a way that is fair and legal and does not damage our reputation or take advantage of it, but you must not establish a link in such a way as to suggest any form of association, approval or endorsement on our part where none exists.
 
-## Jekyll Now Features
+You must not establish a link from any website that is not owned by you.
 
-✓ Command-line free _fork-first workflow_, using GitHub.com to create, customize and post to your blog  
-✓ Fully responsive and mobile optimized base theme (**[Theme Demo](http://jekyllnow.com)**)  
-✓ Sass/Coffeescript support using Jekyll 2.0  
-✓ Free hosting on your GitHub Pages user site  
-✓ Markdown blogging  
-✓ Syntax highlighting  
-✓ Disqus commenting  
-✓ Google Analytics integration  
-✓ SVG social icons for your footer  
-✓ 3 http requests, including your avatar  
+Our Website must not be framed on any other site, nor may you create a link to any part of our Website other than the home page. We reserve the right to withdraw linking permission without notice.
 
-✘ No installing dependencies
-✘ No need to set up local development  
-✘ No configuring plugins  
-✘ No need to spend time on theming  
-✘ More time to code other things ... wait ✓!  
+14. Links from our Website
+Where our Website contains links to other Websites and resources provided by third parties, these links are provided for your information only. We have no control over the contents of those Websites or resources, and accept no responsibility for them or for any loss or damage that may arise from your use of them.
 
-## Questions?
+15. Jurisdiction and applicable law
+The English courts will have exclusive jurisdiction over any claim arising from, or related to, a visit to our Website although we retain the right to bring proceedings against you for breach of these terms of use in your country of residence or any other relevant country.
 
-[Open an Issue](https://github.com/barryclark/jekyll-now/issues/new) and let's chat!
+These terms of use and any dispute or claim arising out of or in connection with them or their subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the law of England and Wales.
 
-## Other forkable themes
+16. Variations
+We may revise these terms of use at any time by amending this page. You are expected to check this page from time to time to take notice of any changes we made, as they are binding on you. Some of the provisions contained in these terms of use may also be superseded by provisions or notices published elsewhere on our Website.
 
-You can use the [Quick Start](https://github.com/barryclark/jekyll-now#quick-start) workflow with other themes that are set up to be forked too! Here are some of my favorites:
+17. Your concerns
+If you have any concerns about material which appears on our Website, please contact schools@thisislanguage.com
 
-- [Hyde](https://github.com/poole/hyde) by MDO
-- [Lanyon](https://github.com/poole/lanyon) by MDO
-- [mojombo.github.io](https://github.com/mojombo/mojombo.github.io) by Tom Preston-Werner
-- [Left](https://github.com/holman/left) by Zach Holman
-- [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) by Michael Rose
-- [Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll) by Michael Rose
-
-## Credits
-
-- [Jekyll](https://github.com/jekyll/jekyll) - Thanks to its creators, contributors and maintainers.
-- [SVG icons](https://github.com/neilorangepeel/Free-Social-Icons) - Thanks, Neil Orange Peel. They're beautiful.
-- [Solarized Light Pygments](https://gist.github.com/edwardhotchkiss/2005058) - Thanks, Edward.
-- [Joel Glovier](http://joelglovier.com/writing/) - Great Jekyll articles. I used Joel's feed.xml in this repository.
-- [David Furnes](https://github.com/dfurnes), [Jon Uy](https://github.com/jonuy), [Luke Patton](https://github.com/lkpttn) - Thanks for the design/code reviews.
-- [Bart Kiers](https://github.com/bkiers), [Florian Simon](https://github.com/vermluh), [Henry Stanley](https://github.com/henryaj), [Hun Jae Lee](https://github.com/hunjaelee), [Javier Cejudo](https://github.com/javiercejudo), [Peter Etelej](https://github.com/etelej), [Ben Abbott](https://github.com/jaminscript), [Ray Nicholus](https://github.com/rnicholus), [Erin Grand](https://github.com/eringrand), [Léo Colombaro](https://github.com/LeoColomb), [Dean Attali](https://github.com/daattali), [Clayton Errington](https://github.com/cjerrington), [Colton Fitzgerald](https://github.com/coltonfitzgerald), [Trace Mayer](https://github.com/sunnankar) - Thanks for your [fantastic contributions](https://github.com/barryclark/jekyll-now/commits/master) to the project!
-
-## Contributing
-
-Issues and Pull Requests are greatly appreciated. If you've never contributed to an open source project before I'm more than happy to walk you through how to create a pull request.
-
-You can start by [opening an issue](https://github.com/barryclark/jekyll-now/issues/new) describing the problem that you're looking to resolve and we'll go from there.
-
-I want to keep Jekyll Now as minimal as possible. Every line of code should be one that's useful to 90% of the people using it. Please bear that in mind when submitting feature requests. If it's not something that most people will use, it probably won't get merged. :guardsman:
+Thank you for visiting our Website!
